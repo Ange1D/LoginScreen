@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login MVP Kotlin</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_name">usuario</string>
+    <string name="password">contrseña</string>
+    <string name="log_in">Iniciar sesion</string>
+    <string name="title_activity_main">MVP Example</string>
+    <string name="username_error">El usuario no puede estar vacio</string>
+    <string name="password_error">La contrseña no puede estar vacia</string>
+</resources>
